@@ -1,4 +1,4 @@
-package TwoSum;
+package TwoPointers;
 
 public class StringSubsequence {
 
